@@ -16,5 +16,6 @@ body {
   background-color: rgb(157, 62, 235);
   flex-direction: column;
   flex-flow: column;
-
+  column-width: auto;
+  height: 100%;
 }
