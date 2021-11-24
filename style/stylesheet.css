@@ -13,4 +13,7 @@ body {
 
 .info{
   background-color: rgb(157, 62, 235);
+  flex-direction: column;
+  flex-flow: column;
+  
 }
