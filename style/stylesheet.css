@@ -9,11 +9,12 @@ body {
 
 .intro {
   font-family: "Helvetica", "Arial", sans-serif;
+  font-style: italic;
 }
 
 .info{
   background-color: rgb(157, 62, 235);
   flex-direction: column;
   flex-flow: column;
-  
+
 }
