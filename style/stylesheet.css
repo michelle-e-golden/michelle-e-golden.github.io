@@ -8,3 +8,8 @@ body {
   font-family: "Helvetica", "Arial", sans-serif;
   
 }
+
+.intro {
+    background-color: #0000;
+    color: #FFFF;
+}
