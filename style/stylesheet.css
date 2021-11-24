@@ -21,16 +21,17 @@ body {
 
 
 #intro {
-  font-family: "Helvetica", "Arial", sans-serif;
+  font-family: "Futura", "Helvetica", sans-serif;
   font-style: italic;
   padding-left:1.5em;
   padding-right: 1.5em;
-  margin-top: 1em;
+  margin-top: 1.5em;
 }
 
-.aboutme{
+#aboutme{
   margin-left: 1.5em;
   margin-right: 1.5em;
   margin-top:1em;
   margin-bottom: 1em;
+  text-align: center;
 }
