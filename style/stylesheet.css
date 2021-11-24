@@ -1,6 +1,9 @@
-body {
+main{
   background-color: #0000;
   color: #FFFF;
+}
+
+body {
   text-align: center;
   font-family: "Helvetica", "Arial", sans-serif;
   
