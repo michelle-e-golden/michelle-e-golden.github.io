@@ -52,6 +52,8 @@ body {
 
 .nav:active {
   color: #dcc4fc;
+  font-weight: 100;
+  font-stretch: expanded;
 }
 
 .nav:visited{
