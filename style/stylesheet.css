@@ -8,11 +8,7 @@ body {
 }
 
 #info{
-<<<<<<< HEAD
   background-color: rgb(33, 14, 77);
-=======
-  background-color: rgb(47, 2, 81);
->>>>>>> 51ae045d6172429ad3ba61d4abd2c9175f80f650
   flex-direction: column;
   flex-flow: column;
   float:left;
