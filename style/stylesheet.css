@@ -49,14 +49,14 @@ body {
   color: rgb(250,250,250);
 }
 
-.nav-item>a:active {
+.nav:active {
   color: #b094fd;
 }
 
-.nav-item>a:visited{
+.nav:visited{
   color: rgb(250,250,250);
 }
 
-.nav-item>a:hover{
+.nav:hover{
   color: #d1caf7;
 }
