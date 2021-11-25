@@ -42,6 +42,7 @@ body {
 #greet{
   font-style: oblique;
   font-family: "Futura", "Helvetica", sans-serif;
+  text-align: left;
 }
 
 #aboutme-links {
