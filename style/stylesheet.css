@@ -19,7 +19,6 @@ body {
   top:0;
 }
 
-
 #intro {
   font-family: "Futura", "Helvetica", sans-serif;
   font-style: italic;
@@ -28,9 +27,10 @@ body {
   margin-top: 1.5em;
   text-align: left;
   text-shadow:.3em;
+  font-size: 1.5em;
 }
 
-#aboutme{
+#aboutme {
   margin-left: 1.7em;
   margin-right: 1.7em;
   margin-top:1em;
