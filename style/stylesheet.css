@@ -42,7 +42,7 @@ body {
 }
 
 #greet{
-  font-style:italic;
+  font-style: oblique;
   font-family: "Futura", "Helvetica", sans-serif;
 }
 
