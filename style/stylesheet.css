@@ -21,7 +21,7 @@ body {
 
 #intro {
   font-family: "Futura", "Helvetica", sans-serif;
-  font-style: italic;
+  font-style: oblique;
   padding-left:1em;
   padding-right: 1em;
   margin-top: 1.5em;
@@ -38,11 +38,17 @@ body {
   margin-top:1em;
   margin-bottom: 1em;
   text-align: center;
-  
+  font-family: "Futura", "Helvetica", sans-serif;
+}
+
+#greet{
+  font-style:italic;
+  font-family: "Futura", "Helvetica", sans-serif;
 }
 
 #aboutme-links {
   color: rgb(250,250,250);
+  font-family: "Futura", "Helvetica", sans-serif;
 }
 
 a:active {
