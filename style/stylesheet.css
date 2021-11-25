@@ -9,7 +9,7 @@ body {
 }
 
 #info{
-  background-color: rgb(81, 54, 102);
+  background-color: rgb(50, 12, 78);
   flex-direction: column;
   flex-flow: column;
   float:left;
@@ -50,7 +50,7 @@ body {
 }
 
 a:active {
-  color: rgb(218, 183, 252)
+  color: rgb(231, 206, 255)
 }
 
 a:visited{
