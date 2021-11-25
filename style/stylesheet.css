@@ -50,9 +50,13 @@ body {
 }
 
 a:active {
-  color: #CBCAF7;
+  color: #b094fd;
 }
 
 a:visited{
   color: rgb(250,250,250);
+}
+
+a:hover{
+  color: #d1caf7;
 }
