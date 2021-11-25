@@ -43,3 +43,11 @@ body {
 #aboutme-links {
   color: rgb(250,250,250);
 }
+
+a:active {
+  color: rgb(218, 183, 252)
+}
+
+a:visited{
+  color: rgb(250,250,250);
+}
