@@ -64,10 +64,6 @@ a:visited{
   color: rgb(171, 136, 255);
 }
 
-a:hover{
-  color: #adff9d;
-}
-
 .program_list{
   background-color: rgba(33, 14, 77, 0.802);
   color: rgb(250,250,250);
