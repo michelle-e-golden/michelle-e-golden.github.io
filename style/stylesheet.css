@@ -50,18 +50,18 @@ body {
   color: rgb(250,250,250);
 }
 
-a:active {
-  color: #dcc4fc;
+a:active, a:link {
+  color: #ead4ff;
   font-weight: 100;
   font-stretch: expanded;
 }
 
 a:visited{
-  color: rgb(255, 213, 224);
+  color: rgb(213, 226, 255);
 }
 
 a:hover{
-  color: #e2d5ff;
+  color: #c6b9ff;
 }
 
 .program_list{
