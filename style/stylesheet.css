@@ -57,11 +57,11 @@ a:active {
 }
 
 a:visited{
-  color: rgb(255, 145, 145);
+  color: rgb(171, 136, 255);
 }
 
 a:hover{
-  color: #a7b4ff;
+  color: #adff9d;
 }
 
 .program_list{
