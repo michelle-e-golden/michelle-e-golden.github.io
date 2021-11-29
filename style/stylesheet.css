@@ -50,17 +50,17 @@ body {
   color: rgb(250,250,250);
 }
 
-.nav a:active {
+a:active {
   color: #dcc4fc;
   font-weight: 100;
   font-stretch: expanded;
 }
 
-.nav-link a:visited{
+a:visited{
   color: rgb(255, 213, 224);
 }
 
-.nav a:hover{
+a:hover{
   color: #e2d5ff;
 }
 
