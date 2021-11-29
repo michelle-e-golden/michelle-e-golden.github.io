@@ -51,17 +51,17 @@ body {
 }
 
 a:active, a:link {
-  color: #ead4ff;
+  color: #eda6ff;
   font-weight: 100;
   font-stretch: expanded;
 }
 
 a:visited{
-  color: rgb(213, 226, 255);
+  color: rgb(255, 145, 145);
 }
 
 a:hover{
-  color: #c6b9ff;
+  color: #a7b4ff;
 }
 
 .program_list{
