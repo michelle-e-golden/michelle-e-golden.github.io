@@ -60,7 +60,7 @@ body {
   color: rgb(255, 213, 224);
 }
 
-.nav-link a:hover{
+nav a:hover{
   color: #e2d5ff;
 }
 
