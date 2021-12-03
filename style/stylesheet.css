@@ -49,12 +49,12 @@ body {
   color: #e1e5f2;
 }
 
-a:active {
+nav a:active {
   color: #82b0df;
   font-weight: 100;
 }
 
-a:hover{
+nav a:hover{
   color: #bfdbf7;
 }
 
