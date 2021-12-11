@@ -1,3 +1,8 @@
+@import "~bootstrap/scss/functions";
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&display=swap');
+$font-family-sans-serif: -apple-system, 'Barlow', sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
 body {
   text-align: center;
   font-family: "Helvetica", "Arial", sans-serif;
@@ -40,7 +45,7 @@ body {
 }
 
 #greet{
-  font-style: oblique;
+  font-style: bold;
   font-family: "Futura", "Helvetica", sans-serif;
   text-align: left;
 }
