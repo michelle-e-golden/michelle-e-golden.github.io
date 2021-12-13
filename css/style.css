@@ -18,6 +18,25 @@ body {
   top: 0;
 }
 
+.profile {
+  max-width: 300px;
+  max-height: 300px;
+  align-content: center;
+  margin-top: 10%;
+  background-position: center center;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  border-style: solid;
+  border-color: #FFFF;
+  border-width: 4px;
+}
+
 #intro {
   color: #ffff;
   font-style: bold;
@@ -41,7 +60,7 @@ body {
   margin-bottom: 1.5em;
   text-align: left;
   font-family: "Helvetica", "Futura", "Tahoma", sans-serif;
-  font-size: 1em;
+  font-size: 0.9em;
 }
 
 #greet {
